@@ -7,7 +7,7 @@ Data61 Project
 2. JourneyToWork_VISTA09_v3_VISTA_Online.csv - Journey to work trips
 
 
-   UNIX SCRIPT
+  UNIX SCRIPT
 ================    
 
 1. Script to extract all Darebin starting point trips and store them in a file (using VISTA file JourneyToWork_VISTA09_v3_VISTA_Online.csv)
